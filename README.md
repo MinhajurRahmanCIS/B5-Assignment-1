@@ -1,6 +1,6 @@
 # Blog
 ## 1.  How does TypeScript help in improving code quality and project maintainability?
-    TypeScript is an OOP language. OOP is a structured way to makes code easier to maintain at any level. It gives reusable and readable code, which helps in understanding the logic easily. TypeScript also allows you to define types with expected or desired input and output values. In large projects, using TypeScript makes it easier to maintain code, catch errors during development, and simplify testing and code reuse.
+    TypeScript is an OOP language. OOP is a structured way to makes code easier to maintain at any level. It gives reusable and readable code, which helps in understanding the logic easily. TypeScript also allows to define types with expected or desired input and output values. In large projects, using TypeScript makes it easier to maintain code, catch errors during development, and simplify testing and code reuse.
 ## 2.  Provide an example of using union and intersection types in TypeScript.
     We express a Union Type using the '|' symbol and an Intersection Type using the '&' symbol.
 ### Union Example:
